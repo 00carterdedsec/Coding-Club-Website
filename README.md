@@ -1,4 +1,4 @@
-# Coding-Club-Website
+# The Malayas Coding-Club-Website
 # Coding Club
 
 ## Welcome to the Coding Club
@@ -18,6 +18,12 @@ The Coding Club is dedicated to inspiring and nurturing the next generation of c
 ## Join Us Today!
 Ready to start your coding journey? Join our next meeting or event!
 
-For more information, visit our website or contact us.
+## Team Members
+- Moratehi Samuel Mahlangu EDUV4824148
+- Kutlwano Kotsoe CON-1450192-M5G8
+- Churchill Richard Mgamba EDUV6997374
+
+
+If you would like more information, you can visit our website or contact us.
 
 &copy; 2025 Coding Club. All rights reserved.
